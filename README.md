@@ -3,4 +3,5 @@ This task focuses on developing a Named Entity Recognition (NER) model to identi
 
 ## Structure
 **Main_code.ipynb** - code to solve the problem (not working yet)
+
 **Report.pdf** - recommendations for improving the code and idea
